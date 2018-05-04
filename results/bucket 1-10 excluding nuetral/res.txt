@@ -1,0 +1,43 @@
+
+C:\Dhavala\Assignments\EE551\Python-Project\Correlating Data>python DataPreprocessing.py
+trying to delete Consolidated_Output_total.csv
+
+C:\Dhavala\Assignments\EE551\Python-Project\Correlating Data>python DataPreprocessing.py
+trying to delete Consolidated_Output.csv
+
+C:\Dhavala\Assignments\EE551\Python-Project\Correlating Data>python correlation.py
+Corr news and tweets positive
+-0.0291093855711
+*******************************
+
+
+Corr news and tweets negative
+0.0800609591213
+*******************************
+
+
+Corr negative news and tweets positive
+-0.016265254211
+*******************************
+
+
+Corr positive news and tweets negative
+-0.0949224751711
+*******************************
+
+
+Corr weather and tweets positive
+0.0157871371329
+*******************************
+
+
+Corr weather and tweets negative
+0.0563455902212
+*******************************
+
+
+Corr news negative and tweets positive
+-0.016265254211
+*******************************
+
+

@@ -1,0 +1,39 @@
+
+C:\Dhavala\Assignments\EE551\Python-Project\Correlating Data>python correlation.py
+Corr news and tweets positive
+-0.0725707067507
+*******************************
+
+
+Corr news and tweets negative
+0.0469786312546
+*******************************
+
+
+Corr negative news and tweets positive
+-0.0370260136742
+*******************************
+
+
+Corr positive news and tweets negative
+-0.0177046503976
+*******************************
+
+
+Corr weather and tweets positive
+0.0347721755396
+*******************************
+
+
+Corr weather and tweets negative
+0.02387937923
+*******************************
+
+
+Corr news negative and tweets positive
+-0.0370260136742
+*******************************
+
+
+
+C:\Dhavala\Assignments\EE551\Python-Project\Correlating Data>
